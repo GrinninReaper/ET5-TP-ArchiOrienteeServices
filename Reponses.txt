@@ -1,0 +1,13 @@
+Auteur: Anandou Candassamy
+Date: 24/09/19
+
+	*Question 1*
+La principale difficulité posées par la consommation asynchrone est 
+le fait que les réponses envoyés par le Service n'arriveront pas 
+dans le même ordre que la réquête.
+
+	*Question 2*
+Le système est codée sur une base de queue.
+Les queues ne possèdent pas d'ordre qui permettent un ordre dans le traitement.
+L'utilisation de threads permettrait de créer un ordre dans les opérations 
+tout en gardant le caractère asynchrone.
