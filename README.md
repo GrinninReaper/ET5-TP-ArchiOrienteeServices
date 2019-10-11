@@ -4,7 +4,7 @@ Incomplet
 ```
 
 ### Contexte
-TP fait dans le cadre du cours d'architecture orientée service
+TPs faits dans le cadre du cours d'architecture orientée service
 
 ### Encadrant
 * Professeur encadrant: Laurent Nel
